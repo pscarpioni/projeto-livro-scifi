@@ -1,4 +1,5 @@
 # Capítulo 2
 
 What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum ha
+Lorem Ipsum is 
+simply dummy text of the printing and typesetting industry. Lorem Ipsum ha
